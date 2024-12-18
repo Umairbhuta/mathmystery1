@@ -9,10 +9,3 @@
 - Runs the process for up to 100 iterations or until the number converges to 1.
 - Accepts user input to test the process on any given number.
 
-## Installation
-
-To use **Mystery.py**, you will need Python installed on your machine.
-
-1. Clone or download the project from GitHub:
-   ```bash
-   git clone https://github.com/Umairbhuta/AECH.git
